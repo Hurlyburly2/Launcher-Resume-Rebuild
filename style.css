@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  background-color: #ADD8E6;
+}
+
+.content-wrapper {
+  margin: 30px 10% 30px 10%;
+}
+
+#profile-pic {
+  border-radius: 20px;
+}
+
+.big-title {
+  font-size: 25px;
+  font-weight: 600;
+  color: darkblue;
+}
+
+.navbar-link {
+  padding-right: 40px;
+}
+
+.header {
+  font-size: 20px;
+  font-weight: 600;
+  padding-top: 20px;
+}
+
+.boxed-area {
+  margin-top: 40px;
+  border: darkblue solid 3px;
+  padding: 10px 20px 30px 20px;
+}
+
+button {
+  background-color: #ADD8E6;
+  font-size: 15px;
+  padding: 10px;
+  box-shadow: 1px 1px darkblue;
+}
+
+#project-list {
+  line-height: 40px;
+  display: none;
+}
+
+#quote-paragraph {
+  margin-left: 2%;
+  margin-bottom: 0;
+  display: none;
+}
+
+.no-left-padding {
+  padding-left: 0;
+}
+
+.no-right-padding {
+  padding-right: 0;
+}
+
+.top-field {
+  margin-top: 20px;
+}
+
+#comment-field {
+  text-align: left;
+}
+
+.right-align {
+  text-align: right;
+}
+
+form p {
+  display: inline;
+}
+
+.empty-field {
+  display: inline-block;
+  color: red;
+  font-size: 13px;
+  visibility: hidden;
+}
